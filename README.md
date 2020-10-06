@@ -215,6 +215,7 @@ A curated list of awesome reversing resources
 * [lldb](http://lldb.llvm.org/)
 * [qira](http://qira.me/)
 * [unicorn](https://github.com/unicorn-engine/unicorn)
+* [Delve](https://github.com/go-delve/delve)
 
 ## Mac Decrypt
 
