@@ -51,6 +51,7 @@ A curated list of awesome reversing resources
 * [Binary Analysis](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits](https://nostarch.com/rootkits)
 * [Serious Cryptography](https://nostarch.com/seriouscrypto)
+* [The Ghidra Book](https://nostarch.com/GhidraBook)
 
 ## Courses
 
@@ -70,6 +71,7 @@ A curated list of awesome reversing resources
 * [RE102](https://securedorg.github.io/RE102/)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
+* [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 
 ## Channels
 
@@ -103,6 +105,7 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
+* [theZoo](https://thezoo.morirt.com/)
 
 ## Hex Editors
 
